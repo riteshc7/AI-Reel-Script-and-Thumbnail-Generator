@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     port: 3000,
     proxy: {
-      '/api': 'https://ai-reel-backend-x35l.onrender.com',
+      '/api': 'https://ai-reel-backend-x351.onrender.com',
     },
   },
 });
